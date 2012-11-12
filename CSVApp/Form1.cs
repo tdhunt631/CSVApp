@@ -14,17 +14,20 @@ namespace CSVApp
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent();            
+
             IEnumerable<string> lines = File.ReadLines("Input.csv");
             foreach (string line in lines)
             {
-                string[] parts = line.Split(',');
-                DataGridViewRow row = new DataGridViewRow();
-                
+                if (line != null)
+                {
+                    string[] parts = line.Split(',');
+                    dataGridView1.ColumnCount = parts.Length;
+                    DataGridViewRow row = new DataGridViewRow();
+                    row.CreateCells(dataGridView1, parts);
+                    dataGridView1.Rows.Add(row);
+                }
             }
-
-            
-
         }
     }
 }
