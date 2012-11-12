@@ -1,0 +1,10 @@
+C:\Users\Hunts\Documents\GitHub\CSVApp\CSVApp\bin\Debug\CSVApp.exe
+C:\Users\Hunts\Documents\GitHub\CSVApp\CSVApp\bin\Debug\CSVApp.pdb
+C:\Users\Hunts\Documents\GitHub\CSVApp\CSVApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hunts\Documents\GitHub\CSVApp\CSVApp\obj\x86\Debug\CSVApp.Form1.resources
+C:\Users\Hunts\Documents\GitHub\CSVApp\CSVApp\obj\x86\Debug\CSVApp.Properties.Resources.resources
+C:\Users\Hunts\Documents\GitHub\CSVApp\CSVApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hunts\Documents\GitHub\CSVApp\CSVApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hunts\Documents\GitHub\CSVApp\CSVApp\obj\x86\Debug\CSVApp.exe
+C:\Users\Hunts\Documents\GitHub\CSVApp\CSVApp\obj\x86\Debug\CSVApp.pdb
+C:\Users\Hunts\Documents\GitHub\CSVApp\CSVApp\bin\Debug\Input.csv
